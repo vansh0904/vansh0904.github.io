@@ -19,7 +19,7 @@ body {
         .resume-section p {
             margin: 5px 0;
         }
-.big-red-link {
+.big-red-link > a {
     font-size: 20px; /* Adjust the font size as needed */
     color: red; /* Red color */
     text-decoration: none; /* Remove underline */
