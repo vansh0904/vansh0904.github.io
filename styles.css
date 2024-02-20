@@ -1,1 +1,31 @@
 
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .resume-header {
+            text-align: center;
+        }
+        .resume-contact {
+            margin-bottom: 20px;
+        }
+        .resume-section {
+            margin-bottom: 30px;
+        }
+        .resume-section h2 {
+            margin-bottom: 10px;
+        }
+        .resume-section p {
+            margin: 5px 0;
+        }
+.big-red-link {
+    font-size: 20px; /* Adjust the font size as needed */
+    color: red; /* Red color */
+    text-decoration: none; /* Remove underline */
+}
+
+/* Hover effect */
+.big-red-link:hover {
+    color: darkred; /* Darker red color on hover */
+}
